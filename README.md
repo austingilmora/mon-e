@@ -19,7 +19,8 @@
 ## Usage
   To use this app, all you need to do is go into the file with Git Bash and run 'npm start' to start the server. After that you can seed the database with the command 'npm run seed' or create your own data using insomnia!
   
-
+Checkout the walkthrough!
+https://watch.screencastify.com/v/KsmoRDDKHsJpQe6xb2Vo
     
   
 ## Contributing
